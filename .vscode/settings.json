@@ -1,0 +1,5 @@
+{
+  "python.pythonPath": "/Users/samwinslow/anaconda3/envs/ml-experiments/bin/python3.8",
+  "python.linting.pylintEnabled": true,
+  "python.linting.enabled": true
+}
